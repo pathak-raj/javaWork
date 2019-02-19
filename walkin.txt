@@ -1,0 +1,202 @@
+======================================================================================================================
+
+Job Description Send me Jobs like this
+Looking for a Technical Lead(Java) who could work in a challenging environment with Hitachi MGRM Net Ltd. and currently handling a team of Minimum 5-6 people.
+
+Interested one can directly walk in at the below mentioned details:
+
+Venue- C6/5, Safdarjung Development Area, Hauz Khas, New Delhi.
+
+Nearest Metro- Hauz Khas(Yellow Line) / IIT(Magenta Line)
+
+Time-  10:00 AM - 04:00 PM
+
+Day / Date -  Wednesday & Thursday / 5th Dec'18 & 6th Dec'18
+
+Contact Person-    Pooja Jha /  Neha
+
+Please make sure you carry your updated CV as HR and Technical Round to be conducted on the same day itself .
+
+References are most welcomed.
+
+==============================================================================================================
+Time and Venue
+
+ 28th November - 6th December , 10 AM onwards
+MPS Ltd. C-35, Sector-62 Noida-201307
+I am Interested I am not Interested  Express interest to recruiter and also get a reminder of this walk-in
+  4,00,000 - 9,00,000 P.A.  Openings: 5 Posted 3 days ago Job Applicants: 229Job Views: 1337
+Job Description Send me Jobs like this
+Experience as both a hands-on architect and a software engineer
+Strong hold in Backend Developments and Algorithms.
+Strong Hold on Object Oriented Programming and Design Patterns.
+Mandatory thorough knowledge of
+Programming Language: Core and Advance Java
+Frameworks: Struts, Hibernate and Spring Framework
+Design and Architect: MVC, Composite, Factory and other Design Patterns
+Web Technologies: HTML, CSS, Twitter Bootstrap, JavaScript and JQuery
+Database: MySQL, Query Optimization, Database Design, Stored Procedures, Functions, Triggers and Performance Management
+Can Ideate product ideas and put them into action.
+A deep passion for coding, and versatility to explore problems and solve them.
+Good to have:
+Amazon Web Services, Micro Services and Angular JS is an added advantage.
+SQL Server
+========================================================
+
+SOFTWARE DEVELOPER :: J2EE / ANGULAR / FULL STACK
+2 - 6 Years
+Noida
+Time and Venue
+
+Walkin Interview on 1st December from 9 AM onwards
+C-94, Sector-8, Noida, Near JayPee Factory Outlet (view on Map)
+
+I am InterestedI am not Interested
+Express interest to recruiter and also get a reminder of this walk-in
+INR Based on Experience and ExpertiseOpenings: 4
+Posted 1 day ago
+Job Applicants: Less than 10
+Job Views: 48
+Job Description
+  
+Are you passionate about designing and developing high-volume, low-latency applications for mission-critical systems and delivering high-availability and performance? Do you crave a fast-paced, challenging, fun, rewarding environment? Do you have high standards and a relentless desire to see the impact you can make on an organization every day? Do you enjoy coaching and teaching junior members? If so, bring your talent to FranConnect, the leader in software solutions for the franchise community, the largest growing economic sector and employer in the United States.
+
+We are looking for a Software Developer (Full Stack - Java/Java EE with Angular) with experience in building high-performing, scalable, enterprise-grade applications.
+
+You will be part of a talented software team that works on mission-critical applications. Java developer roles and responsibilities include managing Java/Java EE / Angular application development while providing expertise in the full software development lifecycle, from concept and design to testing.
+
+This position is located in Noida, India. No relocation assistance provided. 
+
+Salary: INR Based on Experience and Expertise
+
+Industry:IT-Software / Software Services
+
+Functional Area:IT Software - Application Programming, Maintenance
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type:Permanent Job, Full Time
+
+Keyskills
+javaj2eeawsjspservletsstrutsangularjsmysqljqueryjunitAngular 2 3 4 5AngularFull Stack Developer
+Desired Candidate Profile
+As part of the FranConnect Engineering team, your responsibilities include:
+-Collaborate with Developers, Architects and Product Managers in in developing Java/Java EE and Angular based world class applications
+-Develop dynamic web applications using AngularJS, Typescript, Native Script and jQuery
+-Development of projects using REST API, Spring and JPA/Hibernate Framework
+-Involve in Unit Testing, UML/XML, JSON and SQL queries related work
+-Excellent knowledge of Relational Databases, SQL and ORM technologies (JPA2, Hibernate)
+-Stay up-to-date with latest trends and technologies in the context of Java EE development 
+
+
+Requirements
+
+-Minimum 2-5 years of relevant experience in software engineering field
+-B.Tech/M.Tech/MCA degree in Computer Science, Engineering or a related subject
+-Experience developing software products in an Agile development environment, preferably SCRUM
+-Experience in AngularJS (any version 1, 2, 4 or 5) 
+-Hands on experience in designing and developing applications using Java EE platforms
+-Worked on high traffic, large scale websites/applications
+-Seek to work in a constantly changing environment where change and continuous improvement are fully embraced
+-Energetic, never settle for the status quo, are a creative problem solver, and like to have fun at work
+-Experience working in a geographically distributed development organization
+-Experience with Maven, Gradle and GIT would be advantage.
+
+
+Education-
+
+UG:B.Tech/B.E. - Any Specialization, Computers
+
+PG:MCA - Computers, M.Tech - Any Specialization
+
+Company Profile
+FranConnect India Software Pvt. Ltd.
+
+FranConnect provides proven franchise management software to more than 600 brands and 110,000 franchisees including multi-unit operators and area developers. Our customers' business priorities are unit growth, franchisee engagement, and unit performance. As the leading software company built for and by franchisors, we help customers improve their business outcomes by providing greater visibility and control throughout the franchise lifecycle.
+Our customers rely on FranConnect to grow the number of units and make them more successful. Only FranConnect comes with Franchising Built-Inâ„¢ - exclusive functionality and best practices for the entire franchise lifecycle - so franchisors can more effectively manage, track and run their business. 
+FranConnect's core product is our SaaS offering, FranConnect Sky. FranConnect Sky benefits include: 
+-Performance Visibility: FranConnect Sky includes a breadth of functionality that provides complete visibility across the franchising lifecycle. Franchisors can manage unit performance against objectives and create dashboards to view franchisee communication history in one place such as franchisee quality performance, royalty calculations and unit renewals. 
+-New Franchise Development: FranConnect Sky includes complete franchise-specific CRM functionality. Franchisors can improve lead-to-close conversion rates as they generate more leads, reduce cost per lead and ensure compliance with FDD Electronic Disclosure.
+-Opening New Units: FranConnect Sky includes functionality to reduce days to first dollar when opening and onboarding new franchisees and units. Area reps, new owners and headquarters personnel can proactively manage projects, quickly resolve issues and keep the process moving forward, while sharing best practices and critical knowledge.
+-Engaging Franchisees: FranConnect Sky's central communications hub improves unit communications and collaboration, reduces support costs, and shortens issue resolution time, resulting in improved franchisee relations.
+-Local Marketing: Franchisees can increase unit revenue by locally promoting their business more effectively and generating more traffic and repeat business - all within brand standards. 
+FranConnect is a portfolio company of Serent Capital, a San Francisco-based growth investment firm that partners with software and services business to drive topline performance. With over 15 portfolio companies, Serent Capital has demonstrated a meaningful track record of success with >30% annual growth across the portfolio. Serent is committed to recruiting and investing behind great talent in its companies as the key driver of success.
+Recruiter Name:Manish Kumar
+
+Contact Company:FranConnect India Software Pvt. Ltd.
+
+Telephone:91-120-4338108
+
+Address :C-94, Sector- 8
+
+Reference Id:FSD
+
+Website:https://www.franconnect.com
+===========================================================================
+AVA DEVELOPER AND LEAD
+4 - 9 Years
+Noida
+Time and Venue
+
+Walkin Interview on 1st December from 9 AM onwards
+Soprasteria, A-67, Sec-64, Noida (view on Map)
+
+I am InterestedI am not Interested
+Express interest to recruiter and also get a reminder of this walk-in
+ Not Disclosed by RecruiterOpenings: 10Posted 8 days agoJob Applicants: 120Job Views: 250
+Job Description
+  
+Education- BE/Btech/MCA- Fulltime
+
+Must have experience Core Java, Any of the following web framework (Spring , JSF, Struts ) , ORM Framework (Hibernate, JPA)
+Must have experience Unit Testing - Junit.
+Experience and good understanding of Architectures / frameworks like Microservices, Spring Boot
+Must have experience - Execution of database queries, Stored Procedures, table management on Oracle/MySQL/H2.
+Must know about deploying application in JBOSS/WebSphere/Tomcat
+Must have experience to prepare design document at high-level , low-level and update them regularly to explain business need.
+Should be able to express and discuss functional requirements and technical queries with team members.
+Should be able to groom yourself and the team members to the world of technologies on regularly.
+Good to have
+Unit Testing - Unit Testing
+Presentation Skill
+Ability to lead small teams developers.
+Experience in Banking domain preferred 
+Salary: Not Disclosed by Recruiter
+
+Industry:IT-Software / Software Services
+
+Functional Area:IT Software - Application Programming, Maintenance
+
+Role Category:Programming & Design
+
+Role:Software Developer
+
+Employment Type:Permanent Job, Full Time
+
+Keyskills
+Spring BootHibernateCore JavaStrutsJPAJSFJUnitTomcatJBossWebsphere
+Desired Candidate Profile
+Please refer to the Job description above
+Education-
+
+UG:B.Tech/B.E.
+
+PG:MCA - Computers, M.Tech
+
+Company Profile
+Steria India Ltd
+
+Sopra Steria, a European leader in digital transformation, provides one of the most comprehensive portfolios of end-to-end service offerings on the market: consulting, systems integration, software development, infrastructure management and business process services. Sopra Steria is trusted by leading private and public-sector organisations to deliver successful transformation programmes that address their most complex and critical business challenges. With over 42,000 employees in more than 20 countries, Sopra Steria had revenue of Ã¢â€šÂ¬3.7 billion in 2016.
+India is an Integral part of Sopra SteriaÃ¢â‚¬â„¢s global business strategy. We have a strong local presence in India with more than 5,000 people working across 4 delivery centers: Noida, Bangalore, Chennai and Pune. The India operation serves more than 70 customers, including 8 of the GroupÃ¢â‚¬â„¢s top 10 clients. 
+To learn more about Sopra Steria, visit www.soprasteria.com.
+Recruiter Name:Ajay Mallick
+
+Contact Company:Steria India Ltd
+
+Telephone:91-120-4056100
+
+Address :Sopra Steria India, A-67, Sector 64, Noida
+
+Website:http://www.soprasteria.in
